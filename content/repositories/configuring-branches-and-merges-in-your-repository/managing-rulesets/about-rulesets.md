@@ -12,7 +12,7 @@ topics:
 shortTitle: About rulesets
 ---
 
-## About rulesets
+# About rulesets
 
 A ruleset is a named list of rules that applies to a repository{% ifversion repo-rules-enterprise %}, or to multiple repositories in an organization{% endif %}. You can have up to 75 rulesets per repository{% ifversion repo-rules-enterprise %}, and 75 organization-wide rulesets{% endif %}.
 
